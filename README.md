@@ -1,4 +1,2 @@
-# stunlocked94.github.io
-
 ## Tools
-- https://mp3chapters.github.io/merge/
+- [Online MP3 File Merger](https://mp3chapters.github.io/merge/)
