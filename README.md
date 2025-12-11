@@ -5,7 +5,9 @@
 
 ## Adblocklisten
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+
 https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt
+
 https://raw.githubusercontent.com/autinerd/anti-axelspringer-hosts/master/axelspringer-hosts
 
 # Scripts
