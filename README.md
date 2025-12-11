@@ -1,9 +1,7 @@
-# Linksammlung
-
-## Tools
+# Tools
 [Online MP3 File Merger](https://mp3chapters.github.io/merge/)
 
-## Adblocklisten
+# Adblocklisten
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 
 https://raw.githubusercontent.com/gijsdev/ublock-hide-yt-shorts/master/list.txt
