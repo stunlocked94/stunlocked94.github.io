@@ -1,6 +1,8 @@
 # Tools
 [Online MP3 File Merger](https://mp3chapters.github.io/merge/)
 
+[Cobalt](https://cobalt.tools/)
+
 # Adblocklisten
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 
